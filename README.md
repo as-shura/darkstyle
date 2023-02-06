@@ -1,4 +1,4 @@
-# Qt Frameless Window with DarkStyle
+# Frameless Dark Style Window in Qt5
 simple MainWindow class implementation with frameless window and custom dark style. 
 
 It adds also support for titlebar and buttons (minimize, maximize, close)
